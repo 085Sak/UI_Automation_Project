@@ -1,6 +1,8 @@
 ![Screenshot (463)](https://github.com/085Sak/UI_Automation_Project/assets/76028688/bf0e32f0-605b-40db-a994-4b767edcc47d)
 [projectss2](https://github.com/085Sak/UI_Automation_Project/assets/76028688/97c2ba63-2fc0-44c2-bc57-33b2af766f85)
 ![projectss3](https://github.com/085Sak/UI_Automation_Project/assets/76028688/8a89defe-d625-4488-83a2-77b820c86134)
+![projectss4](https://github.com/085Sak/UI_Automation_Project/assets/76028688/dfb35f8c-a1c6-4415-b79f-84bbb13ad17f)
+![projectss5](https://github.com/085Sak/UI_Automation_Project/assets/76028688/9b173097-28ea-406c-bc4b-daa01b6dc43e)
 
 # NopCommerce_Store_Demo_UI_Automation_Project
 
